@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['q0',['q0',['../group__tp-mem.html#ga047eafdddbbb47bd5568cc92599471e1',1,'q0(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga047eafdddbbb47bd5568cc92599471e1',1,'q0(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga047eafdddbbb47bd5568cc92599471e1',1,'q0(real_t *quatern):&#160;simple.h']]],
+  ['q1',['q1',['../group__tp-mem.html#ga49028ddb12669b722f03df7d71690872',1,'q1(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga49028ddb12669b722f03df7d71690872',1,'q1(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga49028ddb12669b722f03df7d71690872',1,'q1(real_t *quatern):&#160;simple.h']]],
+  ['q2',['q2',['../group__tp-mem.html#gafe22a2a1542a10b13acafc30607cc96e',1,'q2(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#gafe22a2a1542a10b13acafc30607cc96e',1,'q2(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#gafe22a2a1542a10b13acafc30607cc96e',1,'q2(real_t *quatern):&#160;simple.h']]],
+  ['q3',['q3',['../group__tp-mem.html#ga437d721a5f06d219a8eb45edc60d886c',1,'q3(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga437d721a5f06d219a8eb45edc60d886c',1,'q3(real_t *quatern):&#160;cudaopt.h'],['../group__tp-mem.html#ga437d721a5f06d219a8eb45edc60d886c',1,'q3(real_t *quatern):&#160;simple.h']]],
+  ['quatern',['quatern',['../group__tp-mem.html#gacd7371884653fe42be2c9cf4fcdd3be5',1,'quatern(struct mem_t *m, index_t body):&#160;cudaopt.h'],['../group__tp-mem.html#gacd7371884653fe42be2c9cf4fcdd3be5',1,'quatern(struct mem_t *m, index_t body):&#160;cudaopt.h'],['../group__tp-mem.html#gacd7371884653fe42be2c9cf4fcdd3be5',1,'quatern(struct mem_t *m, index_t body):&#160;simple.h']]],
+  ['quaternion_5fto_5frot_5fmtx33',['quaternion_to_rot_mtx33',['../group__tp-alglin.html#gaacf1d40302aecdf3af8136a76ecbd132',1,'alglin.h']]]
+];
