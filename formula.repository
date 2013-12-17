@@ -1,0 +1,19 @@
+\form#0:$\pi$
+\form#1:$B$
+\form#2:$a$
+\form#3:$d$
+\form#4:$JB$
+\form#5:$rhs$
+\form#6:$i$
+\form#7:\[ \Delta \lambda_i = \frac{1}{d_i}(rhs - J_i\cdot a) \]
+\form#8:$J_i$
+\form#9:$a = B\lambda_0$
+\form#10:$B=M^{-1}J^{\mathrm{T}}$
+\form#11:$B = M^{-1}J^{T}$
+\form#12:$a = B\lambda$
+\form#13:$F_c$
+\form#14:$F_c = J_T\lambda$
+\form#15:$d = JB$
+\form#16:$rhs = \frac{1}{\Delta t}\epsilon - \frac{1}{\Delta t}Ju - JM^{-1}F_e$
+\form#17:$u$
+\form#18:$F_e$
